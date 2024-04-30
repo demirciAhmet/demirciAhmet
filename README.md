@@ -5,7 +5,7 @@ I'm Pursuing a bachelor's degree in Computer Engineering in Ankara, Turkey. I'm 
 - 🌱 I’m currently learning front-end web development
 - 🔭 I’m currently working on a React project
 - 📫 You can reach me on: [Linkedin](https://www.linkedin.com/in/ahmet-kaan-demirci-87bb64219/) or [GitHub](github.com/demirciAhmet)
-- ⚡ Clipboard Web Page: [ahmetkaandemirci.tech](www.ahmetkaandemirci.tech)
+- ⚡ Clipboard Web Page: [ahmetkaandemirci.tech](https://www.ahmetkaandemirci.tech)
 
 <!--
 **demirciAhmet/demirciAhmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
