@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm Pursuing a bachelor's degree in Computer Engineering in Ankara, Turkey. I'm a Linux and Open Source enthusiast who loves learning and researching about it. Currently, I'm expanding my knowledge on web development.
+I'm Pursuing a bachelor's degree in Computer Engineering in Ankara, Turkey. I'm a Linux and Open Source enthusiast who loves learning and researching about it.
 
 - 📫 You can reach me on: [Linkedin](https://www.linkedin.com/in/ahmet-kaan-demirci-87bb64219/) or [GitHub](github.com/demirciAhmet)
-- ⚡ Personal clipboard web page: [ahmetkaandemirci.tech](https://www.ahmetkaandemirci.tech)
 
 <!--
 **demirciAhmet/demirciAhmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
