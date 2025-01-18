@@ -1,7 +1,4 @@
-### Hi there 👋
-I'm Pursuing a bachelor's degree in Computer Engineering in Ankara, Turkey. I'm a Linux and Open Source enthusiast who loves learning and researching about it.
-
-- 📫 You can reach me on: [Linkedin](https://www.linkedin.com/in/ahmet-kaan-demirci-87bb64219/) or [GitHub](github.com/demirciAhmet)
+Open-Source enthusiast
 
 <!--
 **demirciAhmet/demirciAhmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
