@@ -1,4 +1,4 @@
-Open-source enthusiast. Arch btw.
+Open-source enthusiast.
 
 [https://demirciahmet.me](https://demirciahmet.me)
 
